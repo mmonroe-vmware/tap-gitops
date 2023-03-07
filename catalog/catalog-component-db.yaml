@@ -5,7 +5,7 @@ kind: Component
 metadata:
   name: surferslookout-db
   #namespace: default
-  description: Stores data for the surfers lookout service
+  description: Database service for SurfersLookout application
   annotations:
     backstage.io/kubernetes-id: surferslookout-db
     backstage.io/kubernetes-label-selector: 'app=surferslookout-db'

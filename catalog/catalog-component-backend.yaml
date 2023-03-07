@@ -5,7 +5,7 @@ kind: Component
 metadata:
   name: surfersapi
   #namespace: default
-  description: Surf Forecast API Gateway
+  description: API Gateway for SurfersLookout application to external systems
   tags:
     - app-accelerator
     - python

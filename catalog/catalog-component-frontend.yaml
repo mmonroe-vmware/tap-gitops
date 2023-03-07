@@ -5,7 +5,7 @@ kind: Component
 metadata:
   name: surfersweb
   #namespace: default
-  description: Surf Condition Web Reporter and Cams
+  description: Web Frontend SurfersLookout application
   tags:
     - app-accelerator
     - python
