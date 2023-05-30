@@ -1,9 +1,4 @@
 #@data/values
 ---
 namespaces:
-- name: default
-  pipeline: python
-- name: beta
-  pipeline: python
 - name: alpha
-  pipeline: python
