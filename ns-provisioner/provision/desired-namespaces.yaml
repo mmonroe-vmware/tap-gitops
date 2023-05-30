@@ -7,5 +7,3 @@ namespaces:
   pipeline: python
 - name: alpha
   pipeline: python
-- name: beta
-  pipeline: python
