@@ -3,3 +3,5 @@
 namespaces:
 - name: alpha
 - name: beta
+- name: charlie
+
